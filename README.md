@@ -51,6 +51,12 @@ Your data isn’t just getting judged by a robot 🤖 — it's being transformed
 So yes — it might sound confusing at first...  
 But we’ve wrapped all that ML magic into a friendly UI just for you 😄💖
 
+<details>
+  <summary>📖 But for the Curious Cats out there, Click to view ML Theory Summary</summary>
+
+  [Full explanation here →](theory.md)
+
+</details>
 
 ---
 
